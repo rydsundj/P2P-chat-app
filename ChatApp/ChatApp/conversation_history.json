@@ -1,0 +1,632 @@
+[
+  {
+    "UserName": "isak",
+    "Conversations": [
+      {
+        "ChattingWith": "peter",
+        "LastMessageTimestamp": "2024-12-16T17:38:13.4798752+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hej peter",
+            "NameOfSender": "isak",
+            "TimeSent": "2024-12-16T16:17:07.82343+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hejsan isak!",
+            "NameOfSender": "peter",
+            "TimeSent": "2024-12-16T16:17:11.2086858+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "eee",
+            "NameOfSender": "peter",
+            "TimeSent": "2024-12-16T17:38:13.4793772+01:00"
+          }
+        ]
+      },
+      {
+        "ChattingWith": "filip",
+        "LastMessageTimestamp": "2024-12-16T16:18:11.3309767+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "markus?",
+            "NameOfSender": "filip",
+            "TimeSent": "2024-12-16T16:18:11.3299625+01:00"
+          }
+        ]
+      },
+      {
+        "ChattingWith": "abdi",
+        "LastMessageTimestamp": "2024-12-16T16:18:47.8843545+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hejsan",
+            "NameOfSender": "abdi",
+            "TimeSent": "2024-12-16T16:18:45.0624259+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "lugnt!",
+            "NameOfSender": "isak",
+            "TimeSent": "2024-12-16T16:18:47.8843545+01:00"
+          }
+        ]
+      },
+      {
+        "ChattingWith": "zubeir",
+        "LastMessageTimestamp": "2024-12-16T16:19:10.3757507+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "tjena zubbe",
+            "NameOfSender": "isak",
+            "TimeSent": "2024-12-16T16:19:04.9610535+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hej!",
+            "NameOfSender": "zubeir",
+            "TimeSent": "2024-12-16T16:19:10.3752503+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "peter",
+    "Conversations": [
+      {
+        "ChattingWith": "isak",
+        "LastMessageTimestamp": "2024-12-16T17:38:13.4798752+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hej peter",
+            "NameOfSender": "isak",
+            "TimeSent": "2024-12-16T16:17:07.82343+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hejsan isak!",
+            "NameOfSender": "peter",
+            "TimeSent": "2024-12-16T16:17:11.2086858+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "dada",
+            "NameOfSender": "isak",
+            "TimeSent": "2024-12-16T17:38:11.6294653+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "eee",
+            "NameOfSender": "peter",
+            "TimeSent": "2024-12-16T17:38:13.4793772+01:00"
+          }
+        ]
+      },
+      {
+        "ChattingWith": "adam",
+        "LastMessageTimestamp": "2024-12-16T17:41:33.4770185+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "dada",
+            "NameOfSender": "adam",
+            "TimeSent": "2024-12-16T17:41:31.0595279+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "ea",
+            "NameOfSender": "peter",
+            "TimeSent": "2024-12-16T17:41:33.4765167+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "filip",
+    "Conversations": [
+      {
+        "ChattingWith": "isak",
+        "LastMessageTimestamp": "2024-12-16T16:18:14.4946574+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "filip",
+            "NameOfSender": "isak",
+            "TimeSent": "2024-12-16T16:18:07.9807967+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "markus?",
+            "NameOfSender": "filip",
+            "TimeSent": "2024-12-16T16:18:11.3299625+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "nej",
+            "NameOfSender": "isak",
+            "TimeSent": "2024-12-16T16:18:14.4946574+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "abdi",
+    "Conversations": [
+      {
+        "ChattingWith": "isak",
+        "LastMessageTimestamp": "2024-12-16T16:18:47.8843545+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hejsan",
+            "NameOfSender": "abdi",
+            "TimeSent": "2024-12-16T16:18:45.0624259+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "lugnt!",
+            "NameOfSender": "isak",
+            "TimeSent": "2024-12-16T16:18:47.8843545+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "zubeir",
+    "Conversations": [
+      {
+        "ChattingWith": "isak",
+        "LastMessageTimestamp": "2024-12-16T16:19:10.3752503+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "tjena zubbe",
+            "NameOfSender": "isak",
+            "TimeSent": "2024-12-16T16:19:04.9610535+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hej!",
+            "NameOfSender": "zubeir",
+            "TimeSent": "2024-12-16T16:19:10.3752503+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "abdul",
+    "Conversations": [
+      {
+        "ChattingWith": "leo",
+        "LastMessageTimestamp": "2024-12-16T16:23:55.5328205+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hej",
+            "NameOfSender": "leo",
+            "TimeSent": "2024-12-16T16:23:52.1490745+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "ehh",
+            "NameOfSender": "abdul",
+            "TimeSent": "2024-12-16T16:23:55.5323197+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "leo",
+    "Conversations": [
+      {
+        "ChattingWith": "abdul",
+        "LastMessageTimestamp": "2024-12-16T16:23:55.5328205+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "ehh",
+            "NameOfSender": "abdul",
+            "TimeSent": "2024-12-16T16:23:55.5323197+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "jonte",
+    "Conversations": [
+      {
+        "ChattingWith": "samuel",
+        "LastMessageTimestamp": "2024-12-16T16:28:19.2548193+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hej där",
+            "NameOfSender": "samuel",
+            "TimeSent": "2024-12-16T16:28:08.5207954+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "print",
+            "NameOfSender": "jonte",
+            "TimeSent": "2024-12-16T16:28:15.5545824+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "samuel",
+    "Conversations": [
+      {
+        "ChattingWith": "jonte",
+        "LastMessageTimestamp": "2024-12-16T16:28:19.2548193+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "print",
+            "NameOfSender": "jonte",
+            "TimeSent": "2024-12-16T16:28:15.5545824+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "gunbritt",
+    "Conversations": [
+      {
+        "ChattingWith": "annie",
+        "LastMessageTimestamp": "2024-12-16T16:34:17.810227+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hej",
+            "NameOfSender": "gunbritt",
+            "TimeSent": "2024-12-16T16:34:17.8087149+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "annie",
+    "Conversations": [
+      {
+        "ChattingWith": "gunbritt",
+        "LastMessageTimestamp": "2024-12-16T16:34:17.810227+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "hej",
+            "NameOfSender": "gunbritt",
+            "TimeSent": "2024-12-16T16:34:17.8087149+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "knullab",
+    "Conversations": [
+      {
+        "ChattingWith": "abnullak",
+        "LastMessageTimestamp": "2024-12-16T16:40:24.0890604+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "tjo",
+            "NameOfSender": "abnullak",
+            "TimeSent": "2024-12-16T16:40:20.0245456+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "wwwww",
+            "NameOfSender": "knullab",
+            "TimeSent": "2024-12-16T16:40:24.0890604+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "osman",
+    "Conversations": [
+      {
+        "ChattingWith": "sabrija",
+        "LastMessageTimestamp": "2024-12-16T16:41:43.4618365+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "tata",
+            "NameOfSender": "osman",
+            "TimeSent": "2024-12-16T16:41:39.55167+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "bob",
+            "NameOfSender": "sabrija",
+            "TimeSent": "2024-12-16T16:41:43.4613344+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "sabrija",
+    "Conversations": [
+      {
+        "ChattingWith": "osman",
+        "LastMessageTimestamp": "2024-12-16T16:41:43.4618365+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "tata",
+            "NameOfSender": "osman",
+            "TimeSent": "2024-12-16T16:41:39.55167+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "bob",
+            "NameOfSender": "sabrija",
+            "TimeSent": "2024-12-16T16:41:43.4613344+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "mirre",
+    "Conversations": [
+      {
+        "ChattingWith": "bobo",
+        "LastMessageTimestamp": "2024-12-16T16:44:48.0359058+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "daaaaa",
+            "NameOfSender": "mirre",
+            "TimeSent": "2024-12-16T16:44:42.0761109+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "aa",
+            "NameOfSender": "bobo",
+            "TimeSent": "2024-12-16T16:44:48.0348999+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "bobo",
+    "Conversations": [
+      {
+        "ChattingWith": "mirre",
+        "LastMessageTimestamp": "2024-12-16T16:44:42.0776214+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "daaaaa",
+            "NameOfSender": "mirre",
+            "TimeSent": "2024-12-16T16:44:42.0761109+01:00"
+          }
+        ]
+      },
+      {
+        "ChattingWith": "bobo",
+        "LastMessageTimestamp": "2024-12-16T16:44:48.0359058+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "aa",
+            "NameOfSender": "bobo",
+            "TimeSent": "2024-12-16T16:44:48.0348999+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "len",
+    "Conversations": [
+      {
+        "ChattingWith": "vikingbosse",
+        "LastMessageTimestamp": "2024-12-16T16:49:54.4933579+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "fitta",
+            "NameOfSender": "len",
+            "TimeSent": "2024-12-16T16:49:50.8199878+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "bnull",
+            "NameOfSender": "vikingbosse",
+            "TimeSent": "2024-12-16T16:49:54.4928568+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "vikingbosse",
+    "Conversations": [
+      {
+        "ChattingWith": "len",
+        "LastMessageTimestamp": "2024-12-16T16:49:54.4933579+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "fitta",
+            "NameOfSender": "len",
+            "TimeSent": "2024-12-16T16:49:50.8199878+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "bnull",
+            "NameOfSender": "vikingbosse",
+            "TimeSent": "2024-12-16T16:49:54.4928568+01:00"
+          }
+        ]
+      },
+      {
+        "ChattingWith": "abdullahhhh",
+        "LastMessageTimestamp": "2024-12-16T16:50:31.0457692+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "fa",
+            "NameOfSender": "abdullahhhh",
+            "TimeSent": "2024-12-16T16:50:25.268706+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "da",
+            "NameOfSender": "vikingbosse",
+            "TimeSent": "2024-12-16T16:50:31.0457692+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "abdullahhhh",
+    "Conversations": [
+      {
+        "ChattingWith": "vikingbosse",
+        "LastMessageTimestamp": "2024-12-16T16:50:31.0462671+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "fa",
+            "NameOfSender": "abdullahhhh",
+            "TimeSent": "2024-12-16T16:50:25.268706+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "da",
+            "NameOfSender": "vikingbosse",
+            "TimeSent": "2024-12-16T16:50:31.0457692+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "daerere",
+    "Conversations": [
+      {
+        "ChattingWith": "fit",
+        "LastMessageTimestamp": "2024-12-16T16:53:59.1504326+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "d",
+            "NameOfSender": "daerere",
+            "TimeSent": "2024-12-16T16:53:52.9047036+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "a",
+            "NameOfSender": "fit",
+            "TimeSent": "2024-12-16T16:53:59.1489127+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "fit",
+    "Conversations": [
+      {
+        "ChattingWith": "daerere",
+        "LastMessageTimestamp": "2024-12-16T16:53:52.9067041+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "d",
+            "NameOfSender": "daerere",
+            "TimeSent": "2024-12-16T16:53:52.9047036+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "cacaa",
+    "Conversations": [
+      {
+        "ChattingWith": "pop",
+        "LastMessageTimestamp": "2024-12-16T17:01:23.0277607+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "da",
+            "NameOfSender": "pop",
+            "TimeSent": "2024-12-16T17:01:17.1027191+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "te",
+            "NameOfSender": "cacaa",
+            "TimeSent": "2024-12-16T17:01:23.0272595+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "pop",
+    "Conversations": [
+      {
+        "ChattingWith": "cacaa",
+        "LastMessageTimestamp": "2024-12-16T17:01:23.0282593+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "te",
+            "NameOfSender": "cacaa",
+            "TimeSent": "2024-12-16T17:01:23.0272595+01:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "adam",
+    "Conversations": [
+      {
+        "ChattingWith": "peter",
+        "LastMessageTimestamp": "2024-12-16T17:41:33.4770185+01:00",
+        "Messages": [
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "dada",
+            "NameOfSender": "adam",
+            "TimeSent": "2024-12-16T17:41:31.0595279+01:00"
+          },
+          {
+            "MessageType": "chatMessage",
+            "ChatMessageText": "ea",
+            "NameOfSender": "peter",
+            "TimeSent": "2024-12-16T17:41:33.4765167+01:00"
+          }
+        ]
+      }
+    ]
+  }
+]

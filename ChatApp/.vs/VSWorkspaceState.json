@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChatApp",
+    "\\ChatApp\\Model",
+    "\\ChatApp\\obj",
+    "\\ChatApp\\View",
+    "\\ChatApp\\ViewModel",
+    "\\ChatApp\\ViewModel\\Command"
+  ],
+  "SelectedNode": "\\ChatApp\\View\\MainWindow.xaml",
+  "PreviewInSolutionExplorer": false
+}

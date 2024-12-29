@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isake\\tddd49\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|c:\\users\\isake\\tddd49\\chatapp\\chatapp\\model\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\model\\networkmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\viewmodel\\serverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\viewmodel\\serverviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\viewmodel\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\viewmodel\\clientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\view\\server.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\view\\server.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\model\\conversationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\model\\conversationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\conversation_history.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatApp\\conversation_history.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\viewmodel\\command\\startclientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\viewmodel\\command\\startclientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\view\\client.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\view\\client.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\viewmodel\\command\\startservercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\viewmodel\\command\\startservercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\viewmodel\\command\\sendmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\viewmodel\\command\\sendmessagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\view\\client.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\view\\client.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\view\\server.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\view\\server.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\model\\connectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\model\\connectionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\viewmodel\\command\\buzzcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\viewmodel\\command\\buzzcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\viewmodel\\command\\declinecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\viewmodel\\command\\declinecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|C:\\Users\\isake\\tddd49\\ChatApp\\chatapp\\viewmodel\\command\\acceptcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0628BE-46C6-4885-9640-CB72FA40433E}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\viewmodel\\command\\acceptcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 348,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\ClientViewModel.cs",
+              "RelativeDocumentMoniker": "ChatApp\\ViewModel\\ClientViewModel.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\ClientViewModel.cs",
+              "RelativeToolTip": "ChatApp\\ViewModel\\ClientViewModel.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAhwJkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ChatApp\\ViewModel",
+              "WhenOpened": "2024-11-11T10:30:03.479Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkManager.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\Model\\NetworkManager.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Model\\NetworkManager.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\Model\\NetworkManager.cs",
+              "RelativeToolTip": "ChatApp\\Model\\NetworkManager.cs",
+              "ViewState": "AgIAALACAAAAAAAAAAAhwL4CAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ChatApp\\Model",
+              "WhenOpened": "2024-11-12T15:22:43.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\ServerViewModel.cs",
+              "RelativeDocumentMoniker": "ChatApp\\ViewModel\\ServerViewModel.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\ServerViewModel.cs",
+              "RelativeToolTip": "ChatApp\\ViewModel\\ServerViewModel.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAhwMYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ChatApp\\ViewModel",
+              "WhenOpened": "2024-11-11T09:49:32.584Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Server.xaml",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\View\\Server.xaml",
+              "RelativeDocumentMoniker": "ChatApp\\View\\Server.xaml",
+              "ToolTip": "ChatApp/View/Server.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "OverriddenGroupName": "ChatApp\\View",
+              "OverriddenToolTip": "ChatApp/View/Server.xaml",
+              "WhenOpened": "2024-12-06T12:32:50.646Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.xaml",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\View\\Client.xaml",
+              "RelativeDocumentMoniker": "ChatApp\\View\\Client.xaml",
+              "ToolTip": "ChatApp/View/Client.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "OverriddenGroupName": "ChatApp\\View",
+              "OverriddenToolTip": "ChatApp/View/Client.xaml",
+              "WhenOpened": "2024-12-06T12:32:41.253Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ChatApp\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ChatApp\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ChatApp\\ViewModel",
+              "WhenOpened": "2024-11-11T10:16:37.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "conversation_history.json",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\conversation_history.json",
+              "RelativeDocumentMoniker": "ChatApp\\conversation_history.json",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\conversation_history.json",
+              "RelativeToolTip": "ChatApp\\conversation_history.json",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAAAE4BAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-06T10:34:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConversationHistory.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\Model\\ConversationHistory.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Model\\ConversationHistory.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\Model\\ConversationHistory.cs",
+              "RelativeToolTip": "ChatApp\\Model\\ConversationHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:36:15.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatApp\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatApp\\View\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:13:25.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartClientCommand.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\StartClientCommand.cs",
+              "RelativeDocumentMoniker": "ChatApp\\ViewModel\\Command\\StartClientCommand.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\StartClientCommand.cs",
+              "RelativeToolTip": "ChatApp\\ViewModel\\Command\\StartClientCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:50:27.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartServerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\StartServerCommand.cs",
+              "RelativeDocumentMoniker": "ChatApp\\ViewModel\\Command\\StartServerCommand.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\StartServerCommand.cs",
+              "RelativeToolTip": "ChatApp\\ViewModel\\Command\\StartServerCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:50:26.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SendMessageCommand.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\SendMessageCommand.cs",
+              "RelativeDocumentMoniker": "ChatApp\\ViewModel\\Command\\SendMessageCommand.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\SendMessageCommand.cs",
+              "RelativeToolTip": "ChatApp\\ViewModel\\Command\\SendMessageCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:40:29.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatApp\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\View\\MainWindow.xaml",
+              "RelativeToolTip": "ChatApp\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T10:33:02.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Server.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\View\\Server.xaml.cs",
+              "RelativeDocumentMoniker": "ChatApp\\View\\Server.xaml.cs",
+              "ToolTip": "ChatApp/View/Server.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ChatApp\\View",
+              "OverriddenToolTip": "ChatApp/View/Server.xaml.cs",
+              "WhenOpened": "2024-11-11T10:22:56.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\View\\Client.xaml.cs",
+              "RelativeDocumentMoniker": "ChatApp\\View\\Client.xaml.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\View\\Client.xaml.cs",
+              "RelativeToolTip": "ChatApp\\View\\Client.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "ChatApp\\View",
+              "WhenOpened": "2024-11-11T10:22:52.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConnectionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\Model\\ConnectionRequest.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Model\\ConnectionRequest.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\Model\\ConnectionRequest.cs",
+              "RelativeToolTip": "ChatApp\\Model\\ConnectionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:12:53.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\Model\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Model\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\Model\\ChatMessage.cs",
+              "RelativeToolTip": "ChatApp\\Model\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T13:12:59.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuzzCommand.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\BuzzCommand.cs",
+              "RelativeDocumentMoniker": "ChatApp\\ViewModel\\Command\\BuzzCommand.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\BuzzCommand.cs",
+              "RelativeToolTip": "ChatApp\\ViewModel\\Command\\BuzzCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:23:50.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeclineCommand.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\DeclineCommand.cs",
+              "RelativeDocumentMoniker": "ChatApp\\ViewModel\\Command\\DeclineCommand.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\DeclineCommand.cs",
+              "RelativeToolTip": "ChatApp\\ViewModel\\Command\\DeclineCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:00:25.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\App.xaml",
+              "RelativeDocumentMoniker": "ChatApp\\App.xaml",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\App.xaml",
+              "RelativeToolTip": "ChatApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-06T09:36:18.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AcceptCommand.cs",
+              "DocumentMoniker": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\AcceptCommand.cs",
+              "RelativeDocumentMoniker": "ChatApp\\ViewModel\\Command\\AcceptCommand.cs",
+              "ToolTip": "C:\\Users\\isake\\tddd49\\ChatApp\\ChatApp\\ViewModel\\Command\\AcceptCommand.cs",
+              "RelativeToolTip": "ChatApp\\ViewModel\\Command\\AcceptCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T15:03:58.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
